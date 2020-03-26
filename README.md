@@ -5,4 +5,4 @@ A scrape (using Python Requests & BeautifulSoup) and visual analysis (using Tabl
 Tableau Public Profile to see visualizations of the data:
 https://public.tableau.com/views/MichelinRestaurantsSF/Dashboard1?:display_count=y&:origin=viz_share_link
 
-More visualizations to come!
+More visualizations coming soon...
